@@ -103,7 +103,6 @@ Factorial of 5 is 120
 
 **Expected Output:**  
 Reversed number of 1234 is 4321
-
 ---
 
 ## 5. Write a PL/SQL Procedure to Display the Multiplication Table of a Number
